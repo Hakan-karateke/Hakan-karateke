@@ -34,8 +34,8 @@ And I use the following coding platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-Hakan%20Karateke-orange?style=flat&logo=instagram)](https://www.instagram.com/hakan_karateke_/)
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-karateke&show_icons=true&theme=radical&hide=issues,contribs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hakan-karateke&show_icons=true&locale=en&layout=compact" alt="Hakan-karateke" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Hakan-karateke&show_icons=true&theme=radical&hide=issues,contribs" alt="Hakan-karateke" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-karateke&" alt="Hakan-karateke" /></p>
