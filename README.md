@@ -36,3 +36,6 @@ And I use the following coding platforms:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-karateke&show_icons=true&theme=radical&hide=issues,contribs)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-karateke&" alt="Hakan-karateke" /></p>
