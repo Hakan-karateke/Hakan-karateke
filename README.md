@@ -8,7 +8,6 @@ I hold a strong foundation in Computer Engineering from Bingöl University, whic
 
 I'm enthusiastic about collaborating on innovative projects and leveraging my technical expertise to drive success in the digital landscape. Let's connect on LinkedIn and explore opportunities to create meaningful impacts together.
 
-Furthermore, I also have intermediate proficiency in programming languages:
 
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
