@@ -1,12 +1,42 @@
-# Hello, I'm Hakan Karateke! 👋
+# Hi, I'm Hakan Karateke! 👋
 
-As a dedicated student of Computer Engineering, I'm passionate about developing my skills in Flutter, .NET, and Python. I constantly keep myself updated with the latest technological advancements and trends, which helps me to stay at the forefront of innovation.
+---
 
-Throughout my academic journey, I've worked on various automation and mobile application projects, and I'm currently involved in several development-phase projects. My adaptability allows me to quickly integrate into teams and efficiently learn new technologies. I take pride in my ability to continuously improve myself and contribute meaningfully to the projects I am part of.
+## 👨‍💻 About Me
 
-I hold a strong foundation in Computer Engineering from Bingöl University, which has equipped me with a comprehensive understanding of both software development and problem-solving. In addition to my expertise in Flutter, .NET, and Python, I possess intermediate proficiency in C++, C and Java. This diverse skill set enables me to approach challenges with a holistic and well-rounded perspective.
+I am a passionate Computer Engineer, graduated from **Bingöl University**, currently working as an **Assistant Software Developer Specialist** at **Limak Teknoloji, Yazılım, Savunma, Sanayi ve Ticaret AŞ**.
 
-I'm enthusiastic about collaborating on innovative projects and leveraging my technical expertise to drive success in the digital landscape. Let's connect on LinkedIn and explore opportunities to create meaningful impacts together.
+With strong foundations in software development and problem solving, I enjoy working on innovative projects and am always eager to learn new technologies. My main interests are in Python, C#, .NET, and web development.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, C#, C++, JavaScript, HTML, CSS
+- **Frameworks/Platforms:** .NET, Flutter, Unity
+- **Tools:** Visual Studio, VS Code, PyCharm, Dev-C++
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I have developed and shared on GitHub:
+
+- [SentimentAnalysis](https://github.com/Hakan-karateke/SentimentAnalysis)  
+  <sub>Natural Language Processing project for sentiment analysis of texts.</sub>
+
+- [Patient Registration and Examination System](https://github.com/Hakan-karateke/Patient-Registration-and-Examination-System)  
+  <sub>A desktop application for managing patient records and examination processes.</sub>
+
+- [Bingol-Sinema](https://github.com/Hakan-karateke/Bingol-Sinema)  
+  <sub>Cinema ticket booking platform designed for Bingöl.</sub>
+
+- [DijkstraArayuz](https://github.com/Hakan-karateke/DijkstraArayuz)  
+  <sub>A graphical interface for visualizing Dijkstra’s Algorithm.</sub>
+
+_For all my projects, please visit my [GitHub repositories](https://github.com/Hakan-karateke?tab=repositories)._
+
+---
 
 
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -30,5 +60,3 @@ And I use the following coding platforms:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hakan-karateke&show_icons=true&locale=en&layout=compact" alt="Hakan-karateke" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Hakan-karateke&show_icons=true&theme=radical&hide=issues,contribs" alt="Hakan-karateke" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-karateke&" alt="Hakan-karateke" /></p>
