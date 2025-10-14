@@ -12,7 +12,7 @@ With strong foundations in software development and problem solving, I enjoy wor
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C#, C++, JavaScript, HTML, CSS
+- **Languages:** Python, C#, Dart, React, C++, JavaScript, HTML, CSS
 - **Frameworks/Platforms:** .NET, Flutter, Unity
 - **Tools:** Visual Studio, VS Code, PyCharm, Dev-C++
 
