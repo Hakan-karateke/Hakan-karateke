@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Engineer based in Adana, Türkiye, currently working as an **Associate Software Developer** at **Limak Technology**, where I build enterprise-grade full-stack systems and lead backend integration for a large-scale corporate banking data aggregation project spanning 25 banks.
 
