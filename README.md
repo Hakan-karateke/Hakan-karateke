@@ -106,11 +106,11 @@ DOI: [10.1109/ACCESS.2026.3691986](https://doi.org/10.1109/ACCESS.2026.3691986)
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- ✉️ [karatekehkn@gmail.com](mailto:karatekehkn@gmail.com)
-- 💼 [linkedin.com/in/hakankarateke](https://www.linkedin.com/in/hakankarateke)
-- 🐙 [github.com/Hakan-karateke](https://github.com/Hakan-karateke)
-- 📍 Adana, Türkiye
+-  [karatekehkn@gmail.com](mailto:karatekehkn@gmail.com)
+-  [linkedin.com/in/hakankarateke](https://www.linkedin.com/in/hakankarateke)
+-  [github.com/Hakan-karateke](https://github.com/Hakan-karateke)
+-  Adana, Türkiye
 
 <p align="center"><i>Always open to interesting collaborations in full-stack development and applied AI.</i></p>
