@@ -18,15 +18,15 @@ Alongside my professional work, I'm pursuing an **M.Sc. in Computer Engineering 
 
 I enjoy building scalable, reliable software — from banking-grade backend pipelines to research-driven AI models — and I'm always looking to apply new technologies to real-world problems.
 
-- 🏢 Currently building the **Kariyer** multi-tenant career platform and leading bank integration pipelines at Limak Technology
-- 🎓 M.Sc. student researching Vision Transformers & Explainable AI at Fırat University
-- 📝 Co-author, IEEE Access (2026) — SCADA cyberattack detection with deep learning
-- 🌱 Constantly exploring new tools across full-stack development and applied AI
-- 💬 Ask me about .NET/ASP.NET Core, React, banking system integrations, or Vision Transformers
+- Currently building the **Kariyer** multi-tenant career platform and leading bank integration pipelines at Limak Technology
+- M.Sc. student researching Vision Transformers & Explainable AI at Fırat University
+- Co-author, IEEE Access (2026) — SCADA cyberattack detection with deep learning
+- Constantly exploring new tools across full-stack development and applied AI
+- Ask me about .NET/ASP.NET Core, React, banking system integrations, or Vision Transformers
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -62,7 +62,7 @@ I enjoy building scalable, reliable software — from banking-grade backend pipe
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 **Limak Technology** — Adana, Türkiye
 - **Associate Software Developer** *(06/2025 – Present)*
@@ -77,7 +77,7 @@ Led teams in Google-organized competitions and mentored project teams on behalf 
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.Sc. Computer Engineering** — Fırat University, Elazığ *(02/2026 – Present)*
   Research focus: Deep Learning, Vision Transformers, Explainable AI. Current work — *"Pneumonia Detection in Chest Radiography: A ViT-B/16 Based Approach and Shortcut Learning Analysis"* — achieving 100% test accuracy (F1 = 1.000) while reducing shortcut-learning detection rate from 100% to 6.7%.
@@ -86,7 +86,7 @@ Led teams in Google-organized competitions and mentored project teams on behalf 
 
 ---
 
-## 📝 Publication
+## Publication
 
 **Deep Tabular and Sequential Models for Robust SCADA Cybersecurity Using the Custom-Built SCADANet Dataset**
 M. T. Yilmaz, E. Algul, O. Polat, F. Doğan and H. Karateke, *IEEE Access*, vol. 14, pp. 77736–77755, 2026.
@@ -98,7 +98,7 @@ DOI: [10.1109/ACCESS.2026.3691986](https://doi.org/10.1109/ACCESS.2026.3691986)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Hakan-karateke" alt="Hakan-karateke GitHub stats" />
